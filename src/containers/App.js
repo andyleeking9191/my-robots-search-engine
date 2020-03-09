@@ -66,7 +66,7 @@ componentDidMount() {
         (
             <div className='tc'>
                 <Particles className='particles' params={particlesOptions}/>
-                <h1 className='f1'>My Robots Search Engine</h1>
+                <h1>Robot Search Engine</h1>
                 <SearchBox searchChange={this.onSearchChange} />
                 <Scroll>
                 <ErrorBoundry>
