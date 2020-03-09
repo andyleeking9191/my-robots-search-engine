@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robot-search-engine/static/css/main.97f7529a.chunk.css",
+    "main.js": "/robot-search-engine/static/js/main.2fb12ccf.chunk.js",
+    "main.js.map": "/robot-search-engine/static/js/main.2fb12ccf.chunk.js.map",
+    "runtime-main.js": "/robot-search-engine/static/js/runtime-main.bde8d535.js",
+    "runtime-main.js.map": "/robot-search-engine/static/js/runtime-main.bde8d535.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robot-search-engine/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.939b58a5.chunk.js": "/robot-search-engine/static/js/2.939b58a5.chunk.js",
+    "static/js/2.939b58a5.chunk.js.map": "/robot-search-engine/static/js/2.939b58a5.chunk.js.map",
+    "index.html": "/robot-search-engine/index.html",
+    "precache-manifest.6bdd01033222eb073448646cc83ebb19.js": "/robot-search-engine/precache-manifest.6bdd01033222eb073448646cc83ebb19.js",
+    "service-worker.js": "/robot-search-engine/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robot-search-engine/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.97f7529a.chunk.css.map": "/robot-search-engine/static/css/main.97f7529a.chunk.css.map",
+    "static/js/2.939b58a5.chunk.js.LICENSE": "/robot-search-engine/static/js/2.939b58a5.chunk.js.LICENSE",
+    "static/media/App.css": "/robot-search-engine/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bde8d535.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.939b58a5.chunk.js",
+    "static/css/main.97f7529a.chunk.css",
+    "static/js/main.2fb12ccf.chunk.js"
+  ]
+}
